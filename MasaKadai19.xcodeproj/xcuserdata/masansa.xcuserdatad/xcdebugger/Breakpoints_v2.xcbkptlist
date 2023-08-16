@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BC60B3F4-2342-422B-9F75-B1339497B535"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9120320A-1330-4729-AB20-0B5B6D6EA19E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MasaKadai19/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F22D73B-FF9E-47A1-A775-63424B0B0B81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MasaKadai19/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "saveItems()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F22D73B-FF9E-47A1-A775-63424B0B0B81 - d15c25fe73c1d4ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MasaKadai19.ViewController.saveItems() -&gt; ()"
+                  moduleName = "MasaKadai19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masansa/Dropbox/My%20Mac%20(masio.local)/Desktop/MasaKadai19/MasaKadai19/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "1F22D73B-FF9E-47A1-A775-63424B0B0B81 - d15c25fe73c1d4ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MasaKadai19.ViewController.saveItems() -&gt; ()"
+                  moduleName = "MasaKadai19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masansa/Dropbox/My%20Mac%20(masio.local)/Desktop/MasaKadai19/MasaKadai19/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "319">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
